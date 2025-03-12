@@ -109,7 +109,7 @@ const Sidebar = () => {
               <Text fontSize="17">Daily Share</Text>
             </Box>
           </Link>
-          <Link to="/India" onClick={handleSideBarView}>
+          <Link to="/Bangladesh" onClick={handleSideBarView}>
             <Box
               display="flex"
               width="100%"

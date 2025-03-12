@@ -80,7 +80,7 @@ const News = ({
       <Box display="flex" flexDirection="column" gap="3">
         <Box display="flex" justifyContent="space-between">
           <Text display="flex" gap="1" alignItems="center">
-            {source_id || "Indian Express"}
+            {source_id || "Bangladesh Express"}
             <CheckCircleIcon w="3" color="#58b6f1" />
           </Text>
           <Button

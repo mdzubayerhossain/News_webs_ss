@@ -42,7 +42,7 @@ const Manynews = () => {
       );
     } else if (news === "Bangladesh") {
       fetchNews(
-        `https://newsdata.io/api/1/news?apikey=${apikey}&country=in&language=bn`,
+        `https://newsdata.io/api/1/news?apikey=${apikey}&country=bd&language=bn`,
       );
     } else {
       fetchNews(
